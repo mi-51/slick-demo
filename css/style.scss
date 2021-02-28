@@ -1,0 +1,14 @@
+.p-slick{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+    &__list{
+        width: 100%;
+        li{
+            padding: 0 0.3rem;
+            img{
+                width: 100%;
+            }
+        }
+    }
+}

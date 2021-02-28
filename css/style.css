@@ -1,0 +1,22 @@
+.p-slick {
+  margin-top: 40px;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+      -ms-flex-pack: center;
+          justify-content: center;
+}
+
+.p-slick__list {
+  width: 100%;
+}
+
+.p-slick__list li {
+  padding: 0 0.3rem;
+}
+
+.p-slick__list li img {
+  width: 100%;
+}
+/*# sourceMappingURL=style.css.map */
